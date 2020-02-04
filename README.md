@@ -19,14 +19,13 @@ If you are interested in featuring on this years programme, please get in touch 
  ## 2019
 
 
-### 2019-04-15: R-Ladies Lyon Kickoff [The Untidyverse by Hilary Robbins with career tips](https://github.com/rladies/meetup-presentations_lyon/tree/AddIni/2019_04_Untidyverse_with_career_tips)
+### 2019-04-15: [The Untidyverse by Hilary Robbins with career tips](https://github.com/rladies/meetup-presentations_lyon/tree/AddIni/2019_04_Untidyverse_with_career_tips)
 
 
 
 
 ### 2019-02-21: [What R we doing in Cancer Research](https://github.com/rladies/meetup-presentations_lyon/tree/AddIni/2019_02_What_R_we_doing_in_Cancer_Research)
 
-Joint R-Ladies Lyon & Lyon Data Science Taster with talks from 
 Dr Shama Virani:   
 Dr Daniela Mariosa:  
-Dr Hannah Lennon: [Slides here](https://github.com/rladies/meetup-presentations_lyon/tree/AddIni/2019_02_What_R_we_doing_in_Cancer_Research)
+Dr Hannah Lennon: [Slides available here](https://github.com/rladies/meetup-presentations_lyon/tree/AddIni/2019_02_What_R_we_doing_in_Cancer_Research)
