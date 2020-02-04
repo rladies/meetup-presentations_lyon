@@ -10,7 +10,7 @@ Video recording and Slides - coming soon
 
  ## 2019
 
-[2019_04_Untidyverse_with_career_tips]()
+[2019_04_Untidyverse_with_career_tips](https://github.com/rladies/meetup-presentations_lyon/tree/AddIni/2019_04_Untidyverse_with_career_tips)
 2019-04-15: R-Ladies Lyon Kickoff
 Hilary Robbins:
 Video recording and Slides
@@ -18,7 +18,7 @@ Video recording and Slides
 
 
    
-[2019_04_What_R_we_doing_in_Cancer_Research]
+[2019_04_What_R_we_doing_in_Cancer_Research](https://github.com/rladies/meetup-presentations_lyon/tree/AddIni/2019_02_What_R_we_doing_in_Cancer_Research)
 
 2019-02-21: Joint R-Ladies Lyon & Lyon Data Science Taster  
 Shama Virani:   
